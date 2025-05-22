@@ -22,6 +22,14 @@ Atualmente, meu foco está em **infraestrutura de redes**, **automação de proc
 ### Redes e Segurança
 ![Cisco](https://img.shields.io/badge/-Cisco-1D9A73?style=flat&logo=cisco&logoColor=white) 
 
+## 🥇 Certificações
+| Certificação | Nome |
+| --- | --- |
+| ![KALI](https://img.shields.io/badge/kali-t?style=for-the-badge&logo=kalilinux&logoColor=white&color=black) | KALI |
+| ![AWS](https://img.shields.io/badge/AWS_Practitioner-t?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black) | AWS |
+| ![SENAI](https://img.shields.io/badge/senai%3A_computer_network_technician-t?style=for-the-badge&logo=semanticui&logoColor=darkred&color=white) | SENAI |
+| ![SENAC](https://img.shields.io/badge/senac%3A_systems_development_technician-t?style=for-the-badge&logo=semanticui&logoColor=darkorange&color=blue) | SENAC |
+
 
 
 
